@@ -14,7 +14,7 @@ Your notes always stay on your phone. Your ratings stay on your phone unless you
 If you choose "Share ratings", Aurum sends each rating with:
 - the score you gave and the evening it was for,
 - how many days ahead the forecast was made,
-- the forecast's score, its three parts (cloud to light up, light path, air clarity) and the weather inputs it was based on (cloud at points toward the sunset, humidity, visibility, dust and haze, recent rain),
+- the forecast's score, its three parts (Canvas: cloud for the light to paint; Light path: sunlight reaching that cloud; Clarity: how clean the air is) and the weather inputs it was based on (cloud at points toward the sunset, humidity, visibility, dust and haze, recent rain),
 - the formula version,
 - the location rounded to about 5 km,
 - the app version,
